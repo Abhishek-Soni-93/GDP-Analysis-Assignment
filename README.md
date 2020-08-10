@@ -19,3 +19,11 @@ You are working as the chief data scientist at NITI Aayog, reporting to the CEO.
  
 
 The overall goal of this project is to help the CMs focus on areas that will foster economic development for their respective states. Since the most common measure of economic development is the GDP, you will analyse the GDP of the various states of India and suggest ways to improve it.
+
+## Problem Description - II
+### Data
+The data is sourced from https://data.gov.in/, an Open Government Data (OGD) platform of India. 
+
+Data I-A: This dataset consists of the GSDP (Gross State Domestic Product) data for the states and union territories.
+
+Data I-B: This dataset contains the distribution of GSDP among three sectors: the primary sector (agriculture), the secondary sector (industry) and the tertiary sector (services) along with taxes and subsidies. There is separate dataset for each of the states. You are expected to read the dataset for the available states and join these (in Python) if needed.
