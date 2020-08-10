@@ -1,5 +1,5 @@
 # GDP-Analysis-Assignment
-Problem Description - I
+## Problem Description - I
 NITI Aayog: Background
 NITI Aayog (National Institution for Transforming India) is a policy think tank of the Government of India; it provides strategic inputs to the central and the state governments to achieve various development goals. In the past, NITI Aayog has played an important role in initiatives such as Digital India, Atal Innovation Mission and various agricultural reforms and have designed various policies in education, skill development, water management, healthcare, etc. 
 
@@ -13,7 +13,7 @@ Finance Minister, Arun Jaitley, made the following observation on the necessity 
 
  
 
-Project Brief
+## Project Brief
 You are working as the chief data scientist at NITI Aayog, reporting to the CEO. The CEO has initiated a project wherein the NITI Aayog will provide top-level recommendations to the Chief Ministers (CMs) of various states, which will help them prioritise areas of development for their respective states. Since different states are in different phases of development, the recommendations should be specific to the states.
 
  
