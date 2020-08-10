@@ -63,9 +63,9 @@ Plot the total GDP of the states for the year 2015-16:
 
 Part I-B:
 
--For the analysis below, use Data I-B. You can also use Data I-B along with Data I-A if required. Also, perform the analysis only for the duration 2014-15. 
--Filter out the union territories (Delhi, Chandigarh, Andaman and Nicobar Islands, etc.) for further analysis, as they are governed directly by the central, not state governments.
--Plot the GDP per capita for all the states.
+- For the analysis below, use Data I-B. You can also use Data I-B along with Data I-A if required. Also, perform the analysis only for the duration 2014-15. 
+- Filter out the union territories (Delhi, Chandigarh, Andaman and Nicobar Islands, etc.) for further analysis, as they are governed directly by the central, not state governments.
+- Plot the GDP per capita for all the states.
  -Identify the top 5 and the bottom 5 states based on the GDP per capita.
  -Find the ratio of the highest per capita GDP to the lowest per capita GDP.
 Plot the percentage contribution of the primary, secondary and tertiary sectors as a percentage of the total GDP for all the states.
